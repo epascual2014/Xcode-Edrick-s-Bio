@@ -13,6 +13,7 @@
 		BC32A2E51ADCBDAA00E8D60B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2E41ADCBDAA00E8D60B /* Images.xcassets */; };
 		BC32A2E81ADCBDAA00E8D60B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2E61ADCBDAA00E8D60B /* LaunchScreen.xib */; };
 		BC32A2F41ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC32A2F31ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift */; };
+		BC32A2FE1ADCC57100E8D60B /* greenshirt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BC32A2ED1ADCBDAA00E8D60B /* Edrick's IntroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Edrick's IntroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC32A2F21ADCBDAA00E8D60B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC32A2F31ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Edrick_s_IntroTests.swift; sourceTree = "<group>"; };
+		BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = greenshirt.jpg; path = ../../../../Pictures/greenshirt.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				BC32A2DF1ADCBDAA00E8D60B /* ViewController.swift */,
 				BC32A2E11ADCBDAA00E8D60B /* Main.storyboard */,
 				BC32A2E41ADCBDAA00E8D60B /* Images.xcassets */,
+				BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */,
 				BC32A2E61ADCBDAA00E8D60B /* LaunchScreen.xib */,
 				BC32A2DB1ADCBDAA00E8D60B /* Supporting Files */,
 			);
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC32A2FE1ADCC57100E8D60B /* greenshirt.jpg in Resources */,
 				BC32A2E31ADCBDAA00E8D60B /* Main.storyboard in Resources */,
 				BC32A2E81ADCBDAA00E8D60B /* LaunchScreen.xib in Resources */,
 				BC32A2E51ADCBDAA00E8D60B /* Images.xcassets in Resources */,
