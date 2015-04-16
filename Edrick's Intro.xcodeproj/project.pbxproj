@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		615338511ADF4DB900F5F828 /* runner.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 615338501ADF4DB900F5F828 /* runner.jpeg */; };
 		BC32A2DE1ADCBDAA00E8D60B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC32A2DD1ADCBDAA00E8D60B /* AppDelegate.swift */; };
 		BC32A2E01ADCBDAA00E8D60B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC32A2DF1ADCBDAA00E8D60B /* ViewController.swift */; };
 		BC32A2E31ADCBDAA00E8D60B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2E11ADCBDAA00E8D60B /* Main.storyboard */; };
 		BC32A2E51ADCBDAA00E8D60B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2E41ADCBDAA00E8D60B /* Images.xcassets */; };
 		BC32A2E81ADCBDAA00E8D60B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2E61ADCBDAA00E8D60B /* LaunchScreen.xib */; };
 		BC32A2F41ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC32A2F31ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift */; };
-		BC32A2FE1ADCC57100E8D60B /* greenshirt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		615338501ADF4DB900F5F828 /* runner.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = runner.jpeg; path = ../../../Dropbox/ragnar/runner.jpeg; sourceTree = "<group>"; };
 		BC32A2D81ADCBDAA00E8D60B /* Edrick's Intro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Edrick's Intro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC32A2DC1ADCBDAA00E8D60B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC32A2DD1ADCBDAA00E8D60B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -37,7 +38,6 @@
 		BC32A2ED1ADCBDAA00E8D60B /* Edrick's IntroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Edrick's IntroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC32A2F21ADCBDAA00E8D60B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC32A2F31ADCBDAA00E8D60B /* Edrick_s_IntroTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Edrick_s_IntroTests.swift; sourceTree = "<group>"; };
-		BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = greenshirt.jpg; path = ../../../../Pictures/greenshirt.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 				BC32A2DF1ADCBDAA00E8D60B /* ViewController.swift */,
 				BC32A2E11ADCBDAA00E8D60B /* Main.storyboard */,
 				BC32A2E41ADCBDAA00E8D60B /* Images.xcassets */,
-				BC32A2FD1ADCC57100E8D60B /* greenshirt.jpg */,
+				615338501ADF4DB900F5F828 /* runner.jpeg */,
 				BC32A2E61ADCBDAA00E8D60B /* LaunchScreen.xib */,
 				BC32A2DB1ADCBDAA00E8D60B /* Supporting Files */,
 			);
@@ -195,8 +195,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC32A2FE1ADCC57100E8D60B /* greenshirt.jpg in Resources */,
 				BC32A2E31ADCBDAA00E8D60B /* Main.storyboard in Resources */,
+				615338511ADF4DB900F5F828 /* runner.jpeg in Resources */,
 				BC32A2E81ADCBDAA00E8D60B /* LaunchScreen.xib in Resources */,
 				BC32A2E51ADCBDAA00E8D60B /* Images.xcassets in Resources */,
 			);
@@ -411,6 +411,7 @@
 				BC32A2F91ADCBDAA00E8D60B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC32A2FA1ADCBDAA00E8D60B /* Build configuration list for PBXNativeTarget "Edrick's IntroTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				BC32A2FC1ADCBDAA00E8D60B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

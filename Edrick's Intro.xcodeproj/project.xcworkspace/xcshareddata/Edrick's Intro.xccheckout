@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>472ECB30-73ED-49DD-AF79-3B6A4C7E33EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Edrick's Intro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E222480C1553F7A0BB2FF083EA3311191A368478</key>
+		<string>https://github.com/epascual2014/Xcode-Edrick-s-Bio.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Edrick's Intro.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E222480C1553F7A0BB2FF083EA3311191A368478</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/epascual2014/Xcode-Edrick-s-Bio.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E222480C1553F7A0BB2FF083EA3311191A368478</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E222480C1553F7A0BB2FF083EA3311191A368478</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xcode-Edrick-s-Bio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
